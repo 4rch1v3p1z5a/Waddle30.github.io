@@ -8,7 +8,7 @@ published: true
 ---
 My scratch project
 
-Today I made a scratch project and finished it. Here is my scratch project:
+Today I made a scratch project and finished it. Here is my project:
 
-https://www.google.co.uk/?gfe_rd=cr&ei=Cc86WKviBqKK8QfShrDgCg
+https://scratch.mit.edu/projects/132889885/#player
 
