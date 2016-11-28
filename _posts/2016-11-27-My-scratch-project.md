@@ -10,6 +10,5 @@ My scratch project
 
 Today I made a scratch project and finished it. Here is my project:
 
-<a href="url">link text</a>
-https://scratch.mit.edu/projects/132889885/#player
+<a href="url">https://scratch.mit.edu/projects/132889885/#player</a>
 
