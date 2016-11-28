@@ -10,5 +10,5 @@ my school scratch project
 
 Today we used scratch. We all did a maze game and here is mine:
 
-https://scratch.mit.edu/projects/133028821/
+<a href="url">https://scratch.mit.edu/projects/133028821/</a>
 
