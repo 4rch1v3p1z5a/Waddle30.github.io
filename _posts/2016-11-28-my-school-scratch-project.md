@@ -10,5 +10,9 @@ my school scratch project
 
 Today we used scratch. We all did a maze game and here is mine:
 
-<a href="https://scratch.mit.edu/projects/133028821/">Click me</a>
+[https://scratch.mit.edu/projects/133028821/](https://scratch.mit.edu/projects/133028821/)
+
+You have to get to the goal and score as many points as you can, whilst not being hit by the vortex called vortal.
+
+How many points did you score?
 
