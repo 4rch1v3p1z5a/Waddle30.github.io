@@ -34,7 +34,7 @@ Controls= arrow keys
 
 Making the game = quite hard
 
-Overall rating = 6/10
+Overall rating = 7/10
 
 The way you can just teleport to the other side is amazing. Also the ghosts speed up! So complete it fast.
 
